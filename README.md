@@ -6,7 +6,7 @@
 
 **Defender Advanced Hunting validation of successful external RDP access**
 
-[![Live Case Study](https://img.shields.io/badge/Live%20Case%20Study-Open-22c55e?style=for-the-badge)](https://grhmmckean33.github.io/soc-rdp-logon-breach-investigation/) [![PDF Report](https://img.shields.io/badge/PDF%20Report-View-dc2626?style=for-the-badge)](report/SOC_Investigation_Report_Possible_Logon_Breach.pdf)
+[![Live Case Study](https://img.shields.io/badge/Live%20Case%20Study-Open-22c55e?style=for-the-badge)](https://grhmmckean33.github.io/Possible-Logon-Breach-RDP-Investigation/) [![PDF Report](https://img.shields.io/badge/PDF%20Report-View-dc2626?style=for-the-badge)](report/SOC_Investigation_Report_Possible_Logon_Breach.pdf)
 
 </div>
 
