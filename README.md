@@ -20,7 +20,7 @@ A high-severity authentication investigation that used Microsoft Defender Advanc
 | Assessment | **True Positive - Successful External RDP Logon - High Confidence** |
 | Environment | Maple Tax Solutions (MTS) |
 | MITRE ATT&CK | T1110 - Brute Force (Defender alert mapping) |
-| Full case study | **[View GitHub Pages site](https://grhmmckean33.github.io/soc-rdp-logon-breach-investigation/)** |
+| Full case study | **[View GitHub Pages site](https://grhmmckean33.github.io/Possible-Logon-Breach-RDP-Investigation/)** |
 | Investigation report | **[Open PDF](report/SOC_Investigation_Report_Possible_Logon_Breach.pdf)** |
 
 ## Key findings
